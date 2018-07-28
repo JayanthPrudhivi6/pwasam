@@ -1,0 +1,51 @@
+{
+"details":{
+"image":"ab.jpg",
+"name":"R@juBhai",
+"phno":"8186967999",
+"email":"burgulaprudhvi6599@gmail.com",
+"address":"MIC College of technology"
+},
+
+"career":{
+  "head":"Career objective",
+  "info":"By beginning of my career to end i works with a quality that makes you valuable to the company."
+
+},
+
+"achievements":{
+  "info":"won best student award"
+},
+"education":[
+  {
+  "Qualification":"B.Tech",
+  "Institute":"MIC College",
+  "Year":"2016-2020",
+  "Percentage":"89%"
+},
+{
+"Qualification":"Intermediate",
+"Institute":"GOVT Junior college",
+"Year":"2014-2016",
+"Percentage":"90%"
+},
+{
+"Qualification":"SSC",
+"Institute":"GOVT High school",
+"Year":"2014",
+"Percentage":"90%"
+}
+],
+"skills":[{
+  "title":"Programing languages",
+  "info":["c,c++,java,r"]
+  },
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql"]
+  },
+{
+  "title":"Operating systems",
+  "info":["ios,android,ubuntu"]
+  }]
+}
